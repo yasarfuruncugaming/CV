@@ -50,13 +50,13 @@ padding-bottom: 30px;
 
 .top-cloud {
   position: absolute;
-  top: 50px;
-  right: 400px;
+  top: 10%;
+  right: 30%;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 400px;
+  left: 30%;
 
 
 }
